@@ -1,5 +1,5 @@
-import { app, dialog } from require("electron");
-import { autoUpdater } from require("electron-updater");
+import { app, dialog } from "electron";
+import { autoUpdater } from "electron-updater";
 
 // Quit when all windows are closed.
 const exec = require("child_process").exec;

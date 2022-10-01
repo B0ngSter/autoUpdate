@@ -18,7 +18,7 @@
           style="font-weight: 700; line-height: 24px"
           class="mt-3 text_four text-center text_gray-5 font-weight-bold pl-4 pr-4"
         >
-          Login your account
+          Login your account 2
         </p>
       </div>
     </div>
