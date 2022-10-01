@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <ellipse id="ellipse-1" cx="24" cy="24" rx="24" ry="24"/>
+    <filter id="filter-2" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" result="innershadow-1-feGaussianBlur-innershadow" stdDeviation="1.807"/>
+      <feOffset dx="-2" dy="-2" in="innershadow-1-feGaussianBlur-innershadow" result="innershadow-1-feOffset-innershadow"/>
+      <feComposite in="innershadow-1-feOffset-innershadow" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="innershadow-1-feOffset-innershadow"/>
+      <feColorMatrix in="innershadow-1-feOffset-innershadow" result="innershadow-1-feColorMatrix-innershadow" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 1 0"/>
+      <feGaussianBlur in="SourceAlpha" result="innershadow-2-feGaussianBlur-innershadow" stdDeviation="1.205"/>
+      <feOffset dx="1" dy="1" in="innershadow-2-feGaussianBlur-innershadow" result="innershadow-2-feOffset-innershadow"/>
+      <feComposite in="innershadow-2-feOffset-innershadow" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="innershadow-2-feOffset-innershadow"/>
+      <feColorMatrix in="innershadow-2-feOffset-innershadow" result="innershadow-2-feColorMatrix-innershadow" type="matrix" values="0 0 0 0 0.6823529411764706  0 0 0 0 0.6823529411764706  0 0 0 0 0.7529411764705882  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="innershadow-1-feColorMatrix-innershadow"/>
+        <feMergeNode in="innershadow-2-feColorMatrix-innershadow"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="linearGradient-3" x1="45.12" x2="-2.4" y1="40.8" y2="-6.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(240,240,243)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+    <mask id="mask-4" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="48" height="48" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-1"/>
+    </mask>
+    <linearGradient id="linearGradient-6" x1="27.767" x2="41.812" y1="28.352" y2="32.515" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,108,52)"/>
+      <stop offset="1" stop-color="rgb(255,163,38)"/>
+    </linearGradient>
+    <linearGradient id="linearGradient-8" x1="13.792" x2="29.64" y1="28.163" y2="32.893" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,108,52)"/>
+      <stop offset="1" stop-color="rgb(255,163,38)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g>
+      <use fill="rgb(240,240,243)" xlink:href="#ellipse-1"/>
+      <use fill="black" filter="url(#filter-2)" xlink:href="#ellipse-1"/>
+      <use fill-opacity="0" stroke="url(#linearGradient-3)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-4)" xlink:href="#ellipse-1"/>
+    </g>
+    <g>
+      <path fill="url(#linearGradient-6)" fill-rule="evenodd" d="M40.15085714 33.4611644s-.15466666-2.81828572-1.23809524-3.7592381c-.76190476-.66057143-2.89142857-1.62666667-4.09219047-2.1432381-.08761905-.03580952-.86019048-.36266666-.86019048-.36266666s-2.47619047-1.25180953-1.23809524-2.50514286c.49980953-.50590476.79314286-1.4247619.96990477-2.41980952.29028571-.00609524.6712381-.63771429.8792381-1.48190477.22323809-.896.16380952-1.6815238-.13257144-1.75466666-.02819047-.00761905-.05790476-.00304762-.08761904.00304762.06704761-.72304762.04647619-1.40952381-.1592381-1.70590476-.64152381-.91657143-.78990476-1.46780953-1.66552381-2.07390477-.87561905-.60609523-1.37561905-.60609523-1.37561905-.60609523s-2.43009524-.5-3.45638095.60533333c-1.02628571 1.10533333-.77104762 1.15885714-1.41104762 2.07466667-.20495238.29790476-.21104762.98514285-.12190476 1.70895238-.03885714-.01066667-.07466667-.01371429-.10895238-.00457143-.29638095.07314285-.35580953.85866666-.13409524 1.75466666.208.84419048.5904762 1.47657143.8792381 1.48190477.17828571.99504762.47009523 1.91390476.97142857 2.41980952 1.23809524 1.25333333-1.23809524 2.50514286-1.23809524 2.50514286s-.77409524.32685714-.86019048.36266666c-.18666666.08-.3992381.17371429-.62171428.2727619.90285714.4464762 1.72342857.90666668 2.17142857 1.2944762 1.28990476 1.12 1.48190476 3.97104762 1.50019047 4.29257143l.00228572.04114285h11.42780952z"/>
+      <path fill="url(#linearGradient-8)" fill-rule="evenodd" d="M22.32838095 27.5594501c-.08761905-.03580951-.86019047-.36266666-.86019047-.36266666S18.992 25.94497392 20.23009524 24.6916406c.49980952-.50590477.79314286-1.42476191.96990476-2.41980953.29028571-.00609524.6712381-.63771428.8792381-1.48190476.22323809-.896.16380952-1.68152381-.13257143-1.75466667-.02819048-.00761904-.05790477-.00304762-.08761905.00304762.06704762-.72304762.04571428-1.4095238-.1592381-1.70590476-.6415238-.91657143-.98038095-1.46704762-1.6655238-2.07390476-.68514286-.60685714-1.68514286-.60685714-1.68514286-.60685714s-2-.5-3.14761905.60533333c-1.14761905 1.10533333-.77028571 1.15885714-1.41028571 2.07466667-.20571429.29790476-.21104762.98514285-.12190477 1.70895238-.03885714-.01066667-.07466666-.01371429-.10895238-.00533334-.29638095.07314286-.35580952.85866667-.13409524 1.75466667.208.84419048.5904762 1.47657143.8792381 1.48190476.17828571.99504762.47009524 1.91390476.97142857 2.41980953 1.23809524 1.25333333-1.23809524 2.50514285-1.23809524 2.50514285s-.77409524.32685715-.86019047.36266667c-1.2.51657143-3.32952381 1.48266667-4.09142857 2.14247619-1.08342858.94095238-1.23809524 3.7592381-1.23809524 3.7592381h19.8095238S27.504 30.64287867 26.42057144 29.7019263c-.76190476-.66057143-2.89142857-1.62590476-4.09219048-2.1424762z"/>
+    </g>
+  </g>
+</svg>

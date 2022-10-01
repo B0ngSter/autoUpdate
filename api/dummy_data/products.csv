@@ -1,0 +1,60 @@
+name,brand,quantity,units,unit_price,picfile,barcode,discount,stock,subcategory,subsubcategory,essential_item
+Marie Gold,Britannia,150,GRAM,23,dummy_data/Britannia-Marie-Gold-Biscuits-150g.jpg,NULL,0,12,Biscuits & Cookies,Healthy & Digestive,TRUE
+Bounce Chocolate Twist,Sunfeast,50,GRAM,8,dummy_data/ITC-Bounce-chocolate-twist-50g.jpg,89465543ft679,0.8,13,Biscuits & Cookies,Cream Biscuits & Wafer,TRUE
+Parle G,Parle G,80,GRAM,5,dummy_data/ParelG-80g.jpg,8946354356gh,0,14,Biscuits & Cookies,,TRUE
+Butter Bite Cashew Cookies,Priyagold,200,GRAM,34,dummy_data/priyagold-butter-bite-butter-cashew-200g.jpg,895765fgsxfgc,3.4,17,Biscuits & Cookies,,TRUE
+Coca Cola 500 ml Pet Bottle,Cola Cola,500,ML,15,dummy_data/COCA_COLA_500_ML_PET_BOTTLES.png.jpg,895656774hub,0,19,Cold Drinks,,TRUE
+Coca Cola 300 ml can,Coca Cola,300,ML,21,dummy_data/Coke_Can_300ML.jpg,893444558vgv,0,21,Cold Drinks,,TRUE
+Coke Zero 300 ml can,Coca Cola,300,ML,21,dummy_data/CokeZero_300ML_can.jpeg,89567dxsxcf,0,11,Cold Drinks,,TRUE
+Pepsi 250 ml pet bottle,Pepsi,250,ML,10,dummy_data/Pepsi-250ml.jpg,NULL,0,5,Cold Drinks,,TRUE
+Pepsi 300 ml can,Pepsi,300,ML,21,dummy_data/Pepsi300MLCan.jpg,NULL,0,25,Cold Drinks,,TRUE
+Pepsi black 300 ml can,Pepsi,300,ML,22,dummy_data/PepsiBlack300ML.jpg,NULL,1,67,Cold Drinks,,TRUE
+Breeze Antibacterial Powder Pack,Unilever,125,GRAM,40,dummy_data/breeze_antibacterial_powder_pack.jpg,33bbccnhboivbq,0,78,Laundry Detergents,Detergent Powders,FALSE
+Breeze PowerMachine Liquid Pack,Unilever,200,ML,109,dummy_data/breeze_powermachine_liquid_pack.jpg,zo8qhc62ejzzad,1,12,Laundry Detergents,Liquid Detergents,FALSE
+Breeze Rose Gold Perfume Powder Pack,Unilever,125,GRAM,45,dummy_data/breeze_rose_gold_perfume_powder_pack.jpg,e2h4z5up6cdjz4,3,33,Laundry Detergents,Detergent Powders,FALSE
+Clear Antidandruff Sachet,Unilever,25,ML,6,dummy_data/clear_antidandruff_sachet.jpg,ongaa8qnzctbuy,0,12,Hair Care,Shampoo,FALSE
+Clear Coolsport menthol sachet,Unilever,25,ML,6,dummy_data/clear_coolsport_menthol_sachet.jpg,9jc279krmrnckp,0,14,Hair Care,Shampoo,FALSE
+Clear Nourished and healthy sachet,Unilever,25,ML,7,dummy_data/clear_nourished_and_healthy_sachet.jpg,iz1z2b0ag121vo,0,19,Hair Care,Shampoo,FALSE
+Comfort Detergent Liquid Casual Care Pack,Unilever,120,ML,88,dummy_data/comfort_detergent_liquid_casual_care_pack.jpg,xy6ai8r23vdhr9,0,18,Laundry Detergents,Liquid Detergents,FALSE
+Comfort Detergent Liquid Glamour Care Pack,Unilever,120,ML,88,dummy_data/comfort_detergent_liquid_glamour_care_pack.jpg,11q2f7o72wthzx,0,18,Laundry Detergents,Liquid Detergents,FALSE
+Cream Silk Damage Control Sachet,Unilever,25,ML,6,dummy_data/cream_silk_damage_control_sachet.jpg,l8su4cuk7oo7cp,0,21,Hair Care,Conditioner,FALSE
+Cream Silk Dry Rescue Sachet,Unilever,25,ML,6,dummy_data/cream_silk_dry_rescue_sachet.jpg,ymw3r7xwj38r8z,0,21,Hair Care,Conditioner,FALSE
+Cream Silk Standout Sachet,Unilever,25,ML,6,dummy_data/cream_silk_standout_sachet.jpg,o30sl4fhdoxod7,0,21,Hair Care,Conditioner,FALSE
+Cream Silk Stunning Shine Sachet,Unilever,25,ML,7,dummy_data/cream_silk_stunning_shine_sachet.jpg,gxwlhqi689z9kp,0,21,Hair Care,Conditioner,FALSE
+Cream Silk Ultimate Color Sachet,Unilever,25,ML,8,dummy_data/cream_silk_ultimate_color_sachet.jpg,h2cem7awhgdqb9,0,21,Hair Care,Hair Colour,FALSE
+Cream Soup Mushroom,Unilever,60,GRAM,104,dummy_data/cream_soup_mushroom.jpg,dgwlpjad5pucpz,0,21,Pasta & Soups,Soup,FALSE
+Dove 1Min Hairfall Rescue Tube,Unilever,40,GRAM,110,dummy_data/dove_1min_hairfall_rescue_tube.jpg,yhgbln8md2exhi,4,21,Hair Care,Hair Oil & Others,FALSE
+Dove 1Min Intense Repair Tube,Unilever,40,GRAM,110,dummy_data/dove_1min_intense_repair_tube.jpg,wgvw4nhnstthvt,0,21,Hair Care,Hair Oil & Others,FALSE
+Dove 1Min Nourishing Oil Care Tube,Unilever,40,GRAM,110,dummy_data/dove_1min_nourishing_oil_care_tube.jpg,x7udun87obphqz,0,21,Hair Care,Hair Oil & Others,FALSE
+Dove Nourishing Oil Bottle,Unilever,120,ML,200,dummy_data/dove_nourishing_oil_bottle.jpg,refto1ime6t0kp,0,21,Hair Care,Hair Oil & Others,FALSE
+Dove Nourishing Oil Care Bottle,Unilever,120,ML,200,dummy_data/dove_nourishing_oil_care_bottle.jpg,3dap8o1qfydsg0,10,21,Hair Care,Hair Oil & Others,FALSE
+Dove Nourishing Oil Sachet,Unilever,25,ML,7,dummy_data/dove_nourishing_oil_sachet.jpg,i8yzf43v29pa06,10,21,Hair Care,Hair Oil & Others,FALSE
+Dove Oxygen Bottle,Unilever,200,ML,249,dummy_data/dove_oxygen_bottle.jpg,urk194jzi2l794,0,21,Hair Care,Hair Oil & Others,FALSE
+Dove Soothing Moisture Bottle,Unilever,200,ML,269,dummy_data/dove_soothing_moisture_bottle.jpg,zh5rbprza36g3d,0,21,Hair Care,Shampoo,FALSE
+Dove Straight and Silky Sachet,Unilever,25,ML,6,dummy_data/dove_straight_and_silky_sachet.jpg,wvri6zq3lrg60r,0,21,Hair Care,Shampoo,FALSE
+Hot Meals Arroz Caldo Mix,Unilever,100,GRAM,45,dummy_data/hot_meals_arroz_caldo_mix.jpg,yo8c06c3zfh4ii,0,21,Ready Made Meals & Mixes,Ready to Eat,FALSE
+Liquid Seasoning Original,Unilever,15,GRAM,30,dummy_data/liquid_seasoning_original.jpg,ok607uxs5slg7u,0,21,Ready Made Meals & Mixes,Masala Mixes & Seasoning,FALSE
+Real Soup Crab and Corn,Unilever,80,GRAM,120,dummy_data/real_soup_crab_and_corn.jpg,wdjyr0pj0tm4vx,0,21,Pasta & Soups,Soup,FALSE
+Recipe Mix Ginataang Gulay Sachet,Unilever,15,GRAM,64,dummy_data/recipe_mix_ginataang_gulay_sachet.jpg,7r0gf7xq017dzx,0,21,Ready Made Meals & Mixes,Ready to Eat,FALSE
+Sinigang sa Sampalok Mix Original,Unilever,45,GRAM,149,dummy_data/sinigang_sa_sampalok_mix_original.jpg,i40p7dg21ta73d,0,21,Ready Made Meals & Mixes,Ready to Eat,FALSE
+Sunsilk Coconut Sachet,Unilever,25,ML,6,dummy_data/sunsilk_coconut_sachet.jpg,8wqfmq6zc2cudw,0,21,Hair Care,Shampoo,FALSE
+Sunsilk DR Sachet,Unilever,25,ML,6,dummy_data/sunsilk_dr_sachet.jpg,qjxf8012qz8zkb,0,21,Hair Care,Shampoo,FALSE
+Sunsilk S&M Sachet,Unilever,25,ML,7,dummy_data/sunsilk_s&m_sachet.jpg,8z9e6b8egmr8mt,0,21,Hair Care,Shampoo,FALSE
+Sunsilk Smooth Bottle,Unilever,200,ML,235,dummy_data/sunsilk_smooth_bottle.jpg,kxf9evzyp0nrr0,0,21,Hair Care,Shampoo,FALSE
+Sunsilk Strong Bottle,Unilever,200,ML,235,dummy_data/sunsilk_strong_bottle.jpg,6gf6kcmzpmlsqp,0,21,Hair Care,Shampoo,FALSE
+Sunsilk Strong Sachet,Unilever,25,ML,6,dummy_data/sunsilk_strong_sachet.jpg,0ayjvkjup3tnuo,0,21,Hair Care,Shampoo,FALSE
+Sunsilk Watermelon Sachet,Unilever,25,ML,7,dummy_data/sunsilk_watermelon_sachet.jpg,3o11yc9or91hfl,0,21,Hair Care,Shampoo,FALSE
+Sunslik Expert Perfect Sachet,Unilever,25,ML,6,dummy_data/sunslik_expert_perfect_sachet.jpg,ji038x6673swv6,0,21,Hair Care,Shampoo,FALSE
+Surf Active Clean Cherry Blossom Pack,Unilever,60,GRAM,45,dummy_data/surf_active_clean_cherry_blossom_pack.jpg,5vf8ch691rxof5,0,21,Laundry Detergents,Detergent Powders,FALSE
+Surf Active Clean Kalamansi Pack,Unilever,60,GRAM,45,dummy_data/surf_active_clean_kalamansi_pack.jpg,x74i8cac4slzz0,0,21,Laundry Detergents,Detergent Powders,FALSE
+Surf Active Clean Purple Blooms Pack,Unilever,60,GRAM,45,dummy_data/surf_active_clean_purple_blooms_pack.jpg,t27xy2cnwktjzd,0,12,Laundry Detergents,Detergent Powders,FALSE
+Surf Active Clean Sun Fresh Pack,Unilever,60,GRAM,47,dummy_data/surf_active_clean_sun_fresh_pack.jpg,xsznm4hoj3jf81,0,21,Laundry Detergents,Detergent Powders,FALSE
+Surf Blossom Fresh Pack,Unilever,60,GRAM,45,dummy_data/surf_blossom_fresh_pack.jpg,hssistms0lxpue,4,21,Laundry Detergents,Laundry Additives,FALSE
+Surf Fabric Conditioner Blossom Fresh Pack,Unilever,60,GRAM,45,dummy_data/surf_fabric_conditioner_blossom_fresh_pack.jpg,rfy3eqca26rx6i,0,21,Laundry Detergents,Laundry Additives,FALSE
+Surf Fabric Conditioner Fabcon Sun Fresh,Unilever,60,GRAM,45,dummy_data/surf_fabric_conditioner_fabcon_sun_fresh.jpg,4ti1ld9ex9rhis,0,21,Laundry Detergents,Laundry Additives,FALSE
+Surf Fabric Conditioner Luxe Perfume Pack,Unilever,60,GRAM,45,dummy_data/surf_fabric_conditioner_luxe_perfume_pack.jpg,4jmj3yc7677ry3,0,21,Laundry Detergents,Laundry Additives,FALSE
+Surf Fabric Conditioner Magical Bloom Pack,Unilever,60,GRAM,47,dummy_data/surf_fabric_conditioner_magical_bloom_pack.jpg,1vbvq0se5plycc,2,21,Laundry Detergents,Laundry Additives,FALSE
+Surf Fabric Conditioner With Mint Extracts Bottle,Unilever,60,GRAM,47,dummy_data/surf_fabric_conditioner_with_mint_extracts_bottle.jpg,m5x79mvgu2j693,0,21,Laundry Detergents,Laundry Additives,FALSE
+Surf Fabric Conditioner With Mint Extracts Pack,Unilever,60,GRAM,45,dummy_data/surf_fabric_conditioner_with_mint_extracts_pack.jpg,lxdewe1lj02xmu,0,21,Laundry Detergents,Laundry Additives,FALSE
+Tresemme Color Radiance Bottle,Unilever,280,ML,340,dummy_data/tresemme_color_radiance_bottle.jpg,awjc3szfrakbyi,25,21,Hair Care,Shampoo,FALSE
+Vitakeratin Deep Repair Sachet,Unilever,25,ML,8,dummy_data/vitakeratin_deep_repair_sachet.jpg,e9nwaj1ie4yxeg,0.5,21,Hair Care,Shampoo,FALSE

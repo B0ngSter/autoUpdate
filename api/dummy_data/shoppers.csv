@@ -1,0 +1,9 @@
+name,phone_number,picurl,email,doc_uploaded,preferred_language,timezone,payment_upi_account,address_line1,address_line2,address_city,address_code
+Goku,+919999999999,https://upload.wikimedia.org/wikipedia/en/a/af/Son_Goku_YoungAdult.PNG,goku@gmail.com,FALSE,English,GMT+5:30,9999999999@gpay,dbcdcbgv,,Pune,PIN53753
+Naruto,+918787878787,https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png,borutofather@live.in,TRUE,English,GMT+5:30,8787878787@upi,vcgdvcgv,vdvvvfvvf,Delhi,PIN436343
+Sasuke Uchiha,+918888888888,https://upload.wikimedia.org/wikipedia/en/4/42/SasukeKishimoto.jpg,arrogantaf@yahoo.co.jo,FALSE,English,GMT+5:30,8888888888@upi,,gxvgxv,New York,ZIP648346
+Toshiro,+917878787878,https://upload.wikimedia.org/wikipedia/en/a/a4/HitsugayaKubo.png,iceboi@gmail.com,FALSE,English,GMT+5:30,7878787878@phonepe,dfdcfdcfd,tddfdfdftdf,Synney,PIN2345
+Ichigo,+916778677888,https://upload.wikimedia.org/wikipedia/en/1/1e/IchigoKurosakiBleach.jpg,gatsuga@gmail.com,FALSE,English,GMT+5:30,6778677888@upi,fdvcfcfc,vdggggg,Tokyo,PIN5666
+Orihime,+916589674589,https://upload.wikimedia.org/wikipedia/en/9/93/OrihimeAnimeEp139.jpg,ori@yahoo.co.jp,FALSE,English,GMT+5:30,6589674589@mobikwik,bbhh,,,
+Rangiku,+914566734569,,matsumoto@gmail.com,FALSE,English,GMT+5:30,4566734569@upi,fdftdft,vgvgvgv,Paris,ZIP6789
+Zaraki,+913434567879,https://upload.wikimedia.org/wikipedia/en/7/79/Kenpachi_Zaraki.png,badass@yahoo.com,TRUE,English,GMT+5:30,3434567879@upi,,,,

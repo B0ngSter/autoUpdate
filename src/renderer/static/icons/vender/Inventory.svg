@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <ellipse id="ellipse-1" cx="24" cy="24" rx="24" ry="24"/>
+    <filter id="filter-2" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" result="innershadow-1-feGaussianBlur-innershadow" stdDeviation="1.807"/>
+      <feOffset dx="-2" dy="-2" in="innershadow-1-feGaussianBlur-innershadow" result="innershadow-1-feOffset-innershadow"/>
+      <feComposite in="innershadow-1-feOffset-innershadow" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="innershadow-1-feOffset-innershadow"/>
+      <feColorMatrix in="innershadow-1-feOffset-innershadow" result="innershadow-1-feColorMatrix-innershadow" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 1 0"/>
+      <feGaussianBlur in="SourceAlpha" result="innershadow-2-feGaussianBlur-innershadow" stdDeviation="1.205"/>
+      <feOffset dx="1" dy="1" in="innershadow-2-feGaussianBlur-innershadow" result="innershadow-2-feOffset-innershadow"/>
+      <feComposite in="innershadow-2-feOffset-innershadow" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="innershadow-2-feOffset-innershadow"/>
+      <feColorMatrix in="innershadow-2-feOffset-innershadow" result="innershadow-2-feColorMatrix-innershadow" type="matrix" values="0 0 0 0 0.6823529411764706  0 0 0 0 0.6823529411764706  0 0 0 0 0.7529411764705882  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="innershadow-1-feColorMatrix-innershadow"/>
+        <feMergeNode in="innershadow-2-feColorMatrix-innershadow"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="linearGradient-3" x1="45.12" x2="-2.4" y1="40.8" y2="-6.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(240,240,243)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+    <mask id="mask-4" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="48" height="48" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-1"/>
+    </mask>
+    <path id="path-5" fill-rule="evenodd" d="M12 18v-6h24v6H12zm1.5-1.5h3v-3h-3v3zM12 27h24v-6H12v6zm4.5-4.5h-3v3h3v-3zM12 36h24v-6H12v6zm4.5-4.5h-3v3h3v-3z"/>
+    <filter id="filter-6" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="4.819"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.8 0"/>
+    </filter>
+    <linearGradient id="linearGradient-7" x1="19.2" x2="38.4" y1="29.28" y2="35.28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(255,108,52)"/>
+      <stop offset="1" stop-color="rgb(255,163,38)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g>
+      <use fill="rgb(240,240,243)" xlink:href="#ellipse-1"/>
+      <use fill="black" filter="url(#filter-2)" xlink:href="#ellipse-1"/>
+      <use fill-opacity="0" stroke="url(#linearGradient-3)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-4)" xlink:href="#ellipse-1"/>
+    </g>
+    <g>
+      <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-6)" xlink:href="#path-5"/>
+      <use fill="url(#linearGradient-7)" xlink:href="#path-5"/>
+    </g>
+  </g>
+</svg>
